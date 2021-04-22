@@ -5,7 +5,7 @@
 
 body {
   background-image: url('https://www.macardo.ch/wp-content/uploads/2020/11/headfasslager-2.jpg');
-  background-size: auto;
+  background-size: inherit;
   background-position: center;
 }
 
