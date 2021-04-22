@@ -39,7 +39,7 @@ body {
   transition: all 0.2s;
 }
 
-.databases {
+.form-signin .databases {
   position: relative;
   width: 100%;
   margin-bottom: 1rem;
