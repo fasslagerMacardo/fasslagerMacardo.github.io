@@ -39,6 +39,15 @@ body {
   transition: all 0.2s;
 }
 
+.databases {
+  position: relative;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #495057;
+  padding: 1rem;
+  border: 1px solid transparent;
+}
+
 .form-label-group {
   position: relative;
   margin-bottom: 1rem;
